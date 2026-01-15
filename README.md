@@ -12,9 +12,19 @@ Este es un proyecto de **software** desarrollado con fines puramente educativos 
 ## 🛠️ Tecnologías
 - **Lenguaje:** Python (librería `pynput` o `keyboard`).
 - **SO de prueba:** Windows / Linux.
+- **comandos  pip install pynput , python logger.py  estas son las librerias a descargar para su funcionamiento
 
 ## 🛡️ ¿Cómo protegerse?
 Como entusiasta de la seguridad, recomiendo:
 1. Usar siempre un antivirus actualizado.
 2. Utilizar teclados virtuales para contraseñas sensibles.
 3. Revisar los procesos en segundo plano sospechosos.
+
+## 🛠️ Instalación y Requisitos
+
+Para ejecutar este proyecto de ciberseguridad, necesitas tener **Python 3** instalado en tu sistema.
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/keylogger-python-audit.git](https://github.com/tu-usuario/keylogger-python-audit.git)
+   cd keylogger-python-audit
