@@ -12,7 +12,7 @@ Este es un proyecto de **software** desarrollado con fines puramente educativos 
 ## 🛠️ Tecnologías
 - **Lenguaje:** Python (librería `pynput` o `keyboard`).
 - **SO de prueba:** Windows / Linux.
-- **comandos**  pip install pynput , python logger.py  estas son las librerias a descargar para su funcionamiento
+- **comandos:**  pip install pynput , python logger.py  estas son las librerias a descargar para su funcionamiento
 
 ## 🛡️ ¿Cómo protegerse?
 Como entusiasta de la seguridad, recomiendo:
